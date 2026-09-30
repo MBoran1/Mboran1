@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Merhaba, Ben [MESUT BORAN]
 
-<!--
-**MBoran1/Mboran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Veri Analisti & SQL / Python Geliştirici
 
-Here are some ideas to get you started:
+Veri tabanı mimarisi, SQL ilişkisel veri analizi, veritabanı yönetimi ve Python ile veri görselleştirme konularında projeler geliştiriyorum. Karmaşık verilerden anlamlı iş içgörüleri elde etme ve süreç optimizasyonu üzerine odaklanıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Yetenekler & Teknolojiler
+
+* **Veritabanı & SQL:** PostgreSQL, SQLite, MS SQL Server, pgAdmin, Veritabanı Tasarımı (ERD)
+* **Veri Analizi & Programlama:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+* **Araçlar & Ortamlar:** Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+## 📌 Öne Çıkan Projeler
+
+| Proje Adı | Açıklama | Teknolojiler |
+| :--- | :--- | :--- |
+| 🛒 [TrendKöşe SQL Analizi](https://github.com/Mboran1/TrendKose-PostgreSQL-Data-Analysis) | PostgreSQL üzerinde e-ticaret veritabanı kurulumu, JOIN, Subquery ve CASE analizleri. | PostgreSQL, pgAdmin, SQL |
+| 📉 [Retail Data Visualization](#) | Perakende satış verilerinin Python ile zaman serisi ve korelasyon analizi. | Python, Pandas, Seaborn |
+
+---
+
+## 📬 Benimle İletişime Geçin
+
+* 💼 **LinkedIn:** [linkedin.com/in/mesut-boran](https://linkedin.com/in/mesut-boran)
+* 📧 **E-posta:** mboran524@gmail.com
