@@ -25,5 +25,5 @@ Veri tabanı mimarisi, SQL ilişkisel veri analizi, veritabanı yönetimi ve Pyt
 
 ## 📬 Benimle İletişime Geçin
 
-* 💼 **LinkedIn:** [linkedin.com/in/mesut-boran](https://linkedin.com/in/mesut-boran)
+* 💼 **LinkedIn:** [linkedin.com/in/mesut-boran-711a46178](https://linkedin.com/in/mesut-boran-711a46178)
 * 📧 **E-posta:** mboran524@gmail.com
