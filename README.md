@@ -2,28 +2,24 @@
 
 ### 📊 Veri Analisti & SQL / Python Geliştirici
 
-Veri tabanı mimarisi, SQL ilişkisel veri analizi, veritabanı yönetimi ve Python ile veri görselleştirme konularında projeler geliştiriyorum. Karmaşık verilerden anlamlı iş içgörüleri elde etme ve süreç optimizasyonu üzerine odaklanıyorum.
+Veri analitiği, iş zekası (BI) ve veri görselleştirme alanlarında uçtan uca projeler geliştiren bir veri analisti adayıyım. Perakende ve mağaza yönetimi geçmişimden gelen saha/operasyon tecrübesini **SQL, Python ve Power BI** yetkinlikleriyle birleştirerek iş problemlerine veriye dayalı çözümler üretiyorum.
 
 ---
 
-## 🛠️ Yetenekler & Teknolojiler
-
-* **Veritabanı & SQL:** PostgreSQL, SQLite, MS SQL Server, pgAdmin, Veritabanı Tasarımı (ERD)
-* **Veri Analizi & Programlama:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-* **Araçlar & Ortamlar:** Git, GitHub, VS Code, Jupyter Notebook
-
----
-
-## 📌 Öne Çıkan Projeler
-
-| Proje Adı | Açıklama | Teknolojiler |
-| :--- | :--- | :--- |
-| 🛒 [TrendKöşe SQL Analizi](https://github.com/Mboran1/TrendKose-PostgreSQL-Data-Analysis) | PostgreSQL üzerinde e-ticaret veritabanı kurulumu, JOIN, Subquery ve CASE analizleri. | PostgreSQL, pgAdmin, SQL |
-| 📉 [Retail Data Visualization](#) | Perakende satış verilerinin Python ile zaman serisi ve korelasyon analizi. | Python, Pandas, Seaborn |
+### 🛠️ Teknik Yetkinlikler
+- **Veri Analizi & Modelleme:** Python (Pandas, NumPy, Scikit-learn)
+- **Veritabanı:** PostgreSQL (JOIN, Window Functions, Subqueries, Veri Modelleme)
+- **İş Zekası & Görselleştirme:** Power BI (DAX, Power Query), Matplotlib, Seaborn
 
 ---
 
-## 📬 Benimle İletişime Geçin
+### 📌 Öne Çıkan Projeler
+1. **Olist E-Ticaret Teslimat Riski Tahmini:** Scikit-learn, SMOTE ve Random Forest ile gecikme/iade risk modeli.
+2. **VDYM İstanbul Veri Paneli:** İBB açık verileriyle Power BI üzerinde ilçe bazlı internet ve medya kullanım analizi.
+3. **TrendKöşe PostgreSQL Mimarisi:** Çok tablolu ilişkisel veritabanı tasarımı ve ileri düzey SQL iş analizleri.
 
+---
+
+### 📫 İletişim
 * 💼 **LinkedIn:** [linkedin.com/in/mesut-boran-711a46178](https://linkedin.com/in/mesut-boran-711a46178)
 * 📧 **E-posta:** mboran524@gmail.com
